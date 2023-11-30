@@ -1,0 +1,4 @@
+{
+    "environment": "local",
+    "DB_String": "mongodb+srv://gaurav:gaurav@cluster0.kztacz9.mongodb.net/?retryWrites=true&w=majority"
+}
